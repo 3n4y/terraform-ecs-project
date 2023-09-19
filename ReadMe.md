@@ -1,4 +1,4 @@
-## Deploy highly available app on ECS with ASG and LD using Terraform
+## Deploy highly available app on ECS with ASG and ALB using Terraform
 - This was set up in a public subnet to reduce cost
 
 ## Prequisite
